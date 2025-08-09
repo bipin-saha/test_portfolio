@@ -1,0 +1,27 @@
+/* [project]/src/components/Home/Slider/styles.css [app-client] (css) */
+#app {
+  height: 100%;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  background: #444;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  display: flex;
+}
+
+.swiper-slide img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/*# sourceMappingURL=src_components_Home_Slider_styles_css_f9ee138c._.single.css.map*/
